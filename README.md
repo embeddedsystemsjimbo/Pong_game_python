@@ -1,6 +1,6 @@
 # Pong_game
 
-<img width="803" alt="Screen Shot 2022-07-07 at 6 43 24 PM" src="https://user-images.githubusercontent.com/76194492/177883451-74a281e1-b94a-4c26-87ca-0874680f3581.png">
+<img width="791" alt="Screen Shot 2022-07-07 at 6 44 09 PM" src="https://user-images.githubusercontent.com/76194492/177883536-8adc7c05-28b9-4dd3-b7c4-39fb10e2378f.png">
 
 
 This Pong game was created using Python and the "Turtle Graphics" library to demonstrate and practice OOP programming concepts.
