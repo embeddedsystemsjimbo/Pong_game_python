@@ -11,7 +11,7 @@ The goal of the game is to use the paddles, to prevent the ball from reaching ea
 
 The left player can move their paddle up with the "w" key and down with the "s" key. Similarly, the right player can move their paddle up with the "arrow up" key and down with the "arrow down: key. 
 
-To run game, execute " Python3 pong_game.py" from terminal. 
+To run game, execute "Python3 pong_game.py" from terminal. 
 
 For more info on the game Pong see the wiki linked below:
 
